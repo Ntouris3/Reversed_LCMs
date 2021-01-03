@@ -1,9 +1,9 @@
 
 /*----------------------------------------------------------------
-* Author : Rubén Espínola (ruben1863@github.com)
-* Contact : rubenes2003@gmail.com
+* Author : Rubén Espínola (ruben1863@github.com) , Theodoros Ioannou (Ntouris3@github.com)
+* Contact : rubenes2003@gmail.com , theodor.ioannou123@gmail.com
 * Supported device: CUBOT R9
-* Copyright 2019 © Rubén Espínola
+* Copyright 2019 © Rubén Espínola , Theodoros Ioannou
  *---------------------------------------------------------------*/
 
 #include "lcm_drv.h"
